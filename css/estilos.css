@@ -1,0 +1,23 @@
+body{
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.destacado{
+    color: rgb(255, 255, 255);
+}
+
+.fondo{
+    background-image: linear-gradient(to top,#198754,white);
+}
+
+.tamaño{
+    height: 60px;
+}
+
+.marca{
+    color: darkslategray;
+}
+
+.marca:hover{
+    color: darkslategray;
+}
